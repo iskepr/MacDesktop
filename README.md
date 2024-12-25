@@ -1,3 +1,3 @@
-### Rainmeter MacDisktop
+### Rainmeter MacDesktop
 
-![[@Resource/skreenshot.png]]
+![[@Resources/skreenshot.png]]
