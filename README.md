@@ -1,3 +1,3 @@
 ### Rainmeter MacDesktop
 
-![[@Resources/skreenshot.png]]
+![[https://github.com/iskepr/MacDesktop/blob/main/@Resources/skreenshot.png?raw=true]]
